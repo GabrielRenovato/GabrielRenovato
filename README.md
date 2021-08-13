@@ -1,4 +1,4 @@
-### Ola! Sou o gabriel Conhecido com Alfeim👋
+### Ola! Sou o gabriel Conhecido como Alfeim👋
 
 - 🔭 Investidor em cripto ativos
 - 🌱 Cursando webFullStack na digitalHouse / 2.5 meses de curso
