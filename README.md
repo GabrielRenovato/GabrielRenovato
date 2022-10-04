@@ -2,7 +2,7 @@
 
 - 🔭 Investidor em cripto ativos
 - 🌱 Desenvolvedor FullStack 
-- 👯 Gostaria de estar trabalhando como FrontEnd Junior
+- 👯 Trabalhando na Docato como fullstack Jr.
 - ⚡ Streamer nas horas vagas : https://www.facebook.com/OficialAlfeim
 
 <div>
