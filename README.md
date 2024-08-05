@@ -3,7 +3,6 @@
 - 🔭 Investidor em cripto ativos
 - 🌱 Desenvolvedor FullStack 
 - 👯 Trabalhando na Docato como fullstack Jr.
-- ⚡ Streamer nas horas vagas : https://www.facebook.com/OficialAlfeim
 
 <div>
   <a href="https://github.com/AlfeimJr">
