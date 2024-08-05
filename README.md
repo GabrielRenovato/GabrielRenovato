@@ -1,4 +1,4 @@
-### Ola! Sou o gabriel Conhecido como Alfeim👋
+### Ola! Sou o gabriel 
 
 - 🔭 Investidor em cripto ativos
 - 🌱 Desenvolvedor FullStack 
