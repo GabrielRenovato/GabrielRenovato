@@ -2,7 +2,7 @@
 
 - 🔭 Investidor em cripto ativos
 - 🌱 Desenvolvedor FullStack 
-- 👯 Trabalhando na Docato como fullstack Jr.
+- 👯 Trabalhando na Docato como Pleno
 
 <div>
   <a href="https://github.com/AlfeimJr">
