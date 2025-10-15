@@ -1,8 +1,7 @@
 ### Ola! Sou o gabriel 
 
-- 🔭 Investidor em cripto ativos
-- 🌱 Desenvolvedor FullStack 
-- 👯 Trabalhando na Docato como Pleno
+- 🌱 Mid level Developer Front end
+- 👯 Working in Viceri Seidor
 
 <div>
   <a href="https://github.com/GabrielRenovato">
